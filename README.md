@@ -10,7 +10,7 @@ Despite being the primary producers, farmers often receive only a small portion 
 Additionally, the system lacks:
 
 Price transparency
-Direct communication between farmers and buyers
+Direct communication between farmers and buyers 
 Efficient and fair distribution mechanisms
 
 On the other hand, completely removing middlemen introduces new challenges such as:
