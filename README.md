@@ -51,8 +51,7 @@ Proof of Google AI Usage
 https://docs.google.com/document/d/1S5_1qwfqOMNm6F-Gdd65B0RmpSNLGObSvbXmHuvtMkY/edit?usp=sharing
 
 Demo Video
-
-https://docs.google.com/document/d/1T11iVput0YTFQpOg3m-KnXj5hTLGEvQyjbB8q9emEoo/edit?usp=sharing
+https://drive.google.com/file/d/1cm1qitUgwu0ZS-G4a6oO2sZInutxNidj/view?usp=drivesdk
 
 Screenshots
 Add project screenshots:
